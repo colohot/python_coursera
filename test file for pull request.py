@@ -5,6 +5,7 @@
 def main():
     print("type something")
     print("everything is OK")
+    print("edit for pull.")
 
     pass
 
