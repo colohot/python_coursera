@@ -3,7 +3,7 @@
 
 
 def main():
-    print("penguin said let me add this.")
+    print("penguin-cosm said let me add this.")
     pass
 
 
